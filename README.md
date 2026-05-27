@@ -54,6 +54,21 @@ npm start
 ```
 
 ---
+---
+
+# 📸 Screenshots
+
+## Home Page
+![Home](Screenshot%202026-05-27%20165024.png)
+
+## Watch Room
+![Room](Screenshot%202026-05-27%20165342.png)
+
+## Synchronized Playback
+![Playback](Screenshot%202026-05-27%20165657.png)
+
+## Reactions & Controls
+![Controls](Screenshot%202026-05-27%20165951.png)
 
 # 🔥 Future Improvements
 
