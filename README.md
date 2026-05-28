@@ -59,16 +59,16 @@ npm start
 # 📸 Screenshots
 
 ## Home Page
-<img src="./screenshots/Screenshot%202026-05-27%20165024.png" width="800"/>
+<img src="./screenshots/home.png" width="800"/>
 
 ## Watch Room
-<img src="./screenshots/Screenshot%202026-05-27%20165342.png" width="800"/>
+<img src="./screenshots/room.png" width="800"/>
 
 ## Synchronized Playback
-<img src="./screenshots/Screenshot%202026-05-27%20165657.png" width="800"/>
+<img src="./screenshots/playback.png" width="800"/>
 
 ## Reactions & Controls
-<img src="./screenshots/Screenshot%202026-05-27%20165951.png" width="800"/>
+<img src="./screenshots/control.png" width="800"/>
 
 # 🔥 Future Improvements
 
